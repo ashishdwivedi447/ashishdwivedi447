@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ad1358787@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1PsNktDHqly7XRsOHg5ejpucdGJX5iMXJ](https://drive.google.com/drive/u/0/folders/1PsNktDHqly7XRsOHg5ejpucdGJX5iMXJ)
+- 📄 Know about my experiences : I have good command over Data Strucutre and Algorithm . I have worked  on three collaborative Project and one solo Project in which I made a clone of e-commerce website
 
 - ⚡ Fun fact **I love music and Travelling**
 
