@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN STACK**
 
-- 👨‍💻 All of my projects are available at [My portfolio](https://ashishkumardwivedi.vercel.app/#/)
+- 👨‍💻 All of my projects are available at [My portfolio](https://ashish-portfolio-one.vercel.app/)
 
 - 💬 Ask me about **JavaScript, React, Redux,NodeJs,Express Js,MongoDB**
 
