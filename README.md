@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ashishd25783187" target="blank"><img src="https://img.shields.io/twitter/follow/ashishd25783187?logo=twitter&style=for-the-badge" alt="ashishd25783187" /></a> </p>
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently looking for job in **MERN STACK**
 
 - 👨‍💻 All of my projects are available at [My portfolio](https://ashish-portfolio-one.vercel.app/)
 
